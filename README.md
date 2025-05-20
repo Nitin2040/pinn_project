@@ -18,13 +18,7 @@ u(x) for a fixed time
 # 📦 Requirements
 Install the necessary Python packages:
 
-bash
-Copy
-Edit
+Install the necessary Python packages:pip 
 pip install streamlit numpy tensorflow
 If you wish to enable plotting:
-
-bash
-Copy
-Edit
 pip install matplotlib
